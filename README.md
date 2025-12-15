@@ -42,6 +42,14 @@ Synthetic panel data structured to reflect large-scale marketplace settings:
 
 ---
 
+## Repository Structure
+
+- [`notebooks/`](./notebooks) — Full analysis notebook (panel fixed-effects estimation and simulations)
+- [`data/`](./data) — Synthetic marketplace panel dataset used in the analysis
+- [`outputs/`](./outputs) — Model outputs and visualizations (revenue simulations and response curves)
+
+---
+
 ## Notes
 This analysis is inspired by large-scale marketplace data structures and is intended as a demonstration of pricing analytics methodology rather than a production forecast.
 
