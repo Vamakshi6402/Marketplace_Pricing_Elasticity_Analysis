@@ -3,7 +3,7 @@
 ## Decision Summary
 Using panel data and fixed-effects models, this analysis estimates price elasticity of demand and simulates revenue outcomes under alternative pricing scenarios. Results inform whether modest price increases are likely to increase or decrease total revenue in a large-scale marketplace setting.
 
-**Bottom line:** Elasticity estimates suggest demand is [elastic/inelastic] within the observed range, implying that a +1–5% price change would [increase / decrease] total revenue, conditional on stable competitive conditions.
+**Bottom line:** Elasticity estimates suggest demand is elastic within the observed range, implying that a +1–5% price increase would reduce total revenue under stable competitive conditions. This highlights the importance of cautious price optimization in large-scale marketplace settings.
 
 ---
 
